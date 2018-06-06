@@ -4,5 +4,5 @@
     "body": """
     (function(${1:window}, ${2:document}) {
     \t${0:// body...}
-    })(${1:window}, ${2:document});
+    })(${1:window}, ${2:document})
     """

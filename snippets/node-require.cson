@@ -2,5 +2,5 @@
   "require":
     "prefix": "re"
     "body": """
-    require('${1:module}');
+    require('${1:module}')
     """

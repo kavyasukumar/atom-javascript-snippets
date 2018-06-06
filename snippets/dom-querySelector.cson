@@ -2,5 +2,5 @@
   "querySelector":
     "prefix": "qs"
     "body": """
-    ${1:document}.querySelector('${2:selector}');
+    ${1:document}.querySelector('${2:selector}')
     """

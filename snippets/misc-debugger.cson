@@ -2,5 +2,5 @@
   "debugger":
     "prefix": "de"
     "body": """
-    debugger;
+    debugger
     """

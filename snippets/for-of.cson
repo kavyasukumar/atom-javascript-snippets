@@ -1,8 +1,8 @@
 ".source.js, .source.jsx, .source.ts, .source.js-semantic":
-  "setInterval":
-    "prefix": "si"
+  "for in":
+    "prefix": "fo"
     "body": """
-    setInterval(function() {
+    for (${1:prop} of ${2:obj}) {
     \t${0:// body...}
-    }, ${1:delay})
+    }
     """

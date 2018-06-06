@@ -4,5 +4,5 @@
     "body": """
     describe('${1:description}', function() {
     \t${0:// body...}
-    });
+    })
     """

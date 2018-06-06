@@ -4,5 +4,5 @@
     "body": """
     ${1:myArray}.forEach(function(${2:elem}) {
     \t${0:// body...}
-    });
+    })
     """

@@ -2,5 +2,5 @@
   "classList.add":
     "prefix": "ca"
     "body": """
-    ${1:document}.classList.add('${2:class}');
+    ${1:document}.classList.add('${2:class}')
     """

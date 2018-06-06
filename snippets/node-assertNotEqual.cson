@@ -2,5 +2,5 @@
   "assert.notEqual":
     "prefix": "asn"
     "body": """
-    assert.notEqual(${1:actual}, ${2:expected});
+    assert.notEqual(${1:actual}, ${2:expected})
     """

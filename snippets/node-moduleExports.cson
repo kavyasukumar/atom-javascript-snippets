@@ -2,5 +2,5 @@
   "module.exports":
     "prefix": "me"
     "body": """
-    module.exports = ${1:name};
+    module.exports = ${1:name}
     """

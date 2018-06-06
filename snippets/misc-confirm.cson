@@ -2,5 +2,5 @@
   "confirm":
     "prefix": "co"
     "body": """
-    confirm('${1:msg}');
+    confirm('${1:msg}')
     """

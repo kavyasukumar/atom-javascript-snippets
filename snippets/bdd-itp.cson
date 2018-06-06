@@ -2,5 +2,5 @@
   "it pending":
     "prefix": "itp"
     "body": """
-    it('${1:description}');
+    it('${1:description}')
     """
